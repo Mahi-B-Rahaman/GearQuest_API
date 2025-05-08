@@ -6,7 +6,8 @@
     "category": "Laptop",
     "ratings": 4.8,
     "price": 1199,
-    "buyers": 5200
+    "buyers": 5200,
+    "description": "Lightweight and powerful laptop with M2 chip, great for students and professionals."
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "category": "Smartphone",
     "ratings": 4.7,
     "price": 1299,
-    "buyers": 8000
+    "buyers": 8000,
+    "description": "High-end Android smartphone with powerful camera and S Pen support."
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "category": "Audio",
     "ratings": 4.6,
     "price": 399,
-    "buyers": 6700
+    "buyers": 6700,
+    "description": "Noise-canceling over-ear headphones with premium sound quality."
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "category": "Tablet",
     "ratings": 4.9,
     "price": 1099,
-    "buyers": 4100
+    "buyers": 4100,
+    "description": "Professional-grade tablet with M2 chip and stunning Liquid Retina display."
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "category": "Laptop",
     "ratings": 4.5,
     "price": 1399,
-    "buyers": 3000
+    "buyers": 3000,
+    "description": "High-performance laptop for creators with 4K display and Intel i7 CPU."
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "category": "Accessories",
     "ratings": 4.8,
     "price": 99,
-    "buyers": 9200
+    "buyers": 9200,
+    "description": "Advanced ergonomic mouse designed for productivity and comfort."
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "category": "PC Components",
     "ratings": 4.9,
     "price": 1499,
-    "buyers": 1800
+    "buyers": 1800,
+    "description": "Top-tier graphics card for ultra gaming and content creation."
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "category": "Monitor",
     "ratings": 4.7,
     "price": 2199,
-    "buyers": 1200
+    "buyers": 1200,
+    "description": "Ultra-wide gaming monitor with mini-LED technology and 240Hz refresh rate."
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "category": "Wearable",
     "ratings": 4.4,
     "price": 349,
-    "buyers": 5400
+    "buyers": 5400,
+    "description": "Smartwatch with Fitbit health tracking and Google Assistant."
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "category": "Accessories",
     "ratings": 4.6,
     "price": 49,
-    "buyers": 11000
+    "buyers": 11000,
+    "description": "High-capacity portable charger for phones and tablets."
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "category": "Laptop",
     "ratings": 4.3,
     "price": 899,
-    "buyers": 2600
+    "buyers": 2600,
+    "description": "Convertible laptop with touchscreen and AMD Ryzen processor."
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "category": "Smart Home",
     "ratings": 4.5,
     "price": 49,
-    "buyers": 15000
+    "buyers": 15000,
+    "description": "Smart speaker with Alexa voice assistant and improved sound."
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "category": "Camera",
     "ratings": 4.6,
     "price": 799,
-    "buyers": 1300
+    "buyers": 1300,
+    "description": "Compact mirrorless camera with 24MP sensor and 4K video."
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "category": "Audio",
     "ratings": 4.8,
     "price": 249,
-    "buyers": 9700
+    "buyers": 9700,
+    "description": "Wireless earbuds with active noise cancellation and spatial audio."
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "category": "PC Components",
     "ratings": 4.7,
     "price": 159,
-    "buyers": 3400
+    "buyers": 3400,
+    "description": "Reliable ATX motherboard with PCIe 4.0 support for AMD CPUs."
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "category": "Accessories",
     "ratings": 4.5,
     "price": 129,
-    "buyers": 4100
+    "buyers": 4100,
+    "description": "Compact gaming keyboard with fast optical switches."
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "category": "Camera",
     "ratings": 4.6,
     "price": 399,
-    "buyers": 2900
+    "buyers": 2900,
+    "description": "Rugged action camera with 5.3K video and advanced stabilization."
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "category": "Laptop",
     "ratings": 4.7,
     "price": 1499,
-    "buyers": 2200
+    "buyers": 2200,
+    "description": "Gaming laptop with AMD Ryzen and NVIDIA RTX graphics."
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "category": "Networking",
     "ratings": 4.4,
     "price": 349,
-    "buyers": 3700
+    "buyers": 3700,
+    "description": "High-speed WiFi 6 router with 8-stream performance."
   },
   {
     "id": 20,
@@ -177,6 +196,7 @@
     "category": "Gaming",
     "ratings": 4.9,
     "price": 649,
-    "buyers": 4600
+    "buyers": 4600,
+    "description": "Handheld gaming PC with OLED screen and 1TB SSD."
   }
 ]
