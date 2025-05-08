@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Samsung Galaxy S24 Ultra",
-    "image": "https://example.com/galaxy-s24-ultra.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/s24ultra.jpg?raw=true",
     "category": "Smartphone",
     "ratings": 4.7,
     "price": 1299,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Sony WH-1000XM5 Headphones",
-    "image": "https://example.com/sony-wh1000xm5.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/headphone.jpg?raw=true",
     "category": "Audio",
     "ratings": 4.6,
     "price": 399,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Apple iPad Pro 12.9",
-    "image": "https://example.com/ipad-pro.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/IpadPro.jpeg?raw=true",
     "category": "Tablet",
     "ratings": 4.9,
     "price": 1099,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Dell XPS 15",
-    "image": "https://example.com/dell-xps15.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Dell.jpeg?raw=true",
     "category": "Laptop",
     "ratings": 4.5,
     "price": 1399,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Logitech MX Master 3S",
-    "image": "https://example.com/mx-master-3s.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Logitech%20MX%20Master%203S.jpg?raw=true",
     "category": "Accessories",
     "ratings": 4.8,
     "price": 99,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "ASUS ROG Strix RTX 4080 GPU",
-    "image": "https://example.com/asus-rog-4080.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/ASUS%20ROG%20Strix%20RTX%204080%20GPU.jpg?raw=true",
     "category": "PC Components",
     "ratings": 4.9,
     "price": 1499,
@@ -71,8 +71,8 @@
   },
   {
     "id": 8,
-    "name": "Samsung 49\" Odyssey Neo G9",
-    "image": "https://example.com/odyssey-g9.jpg",
+    "name": "Samsung 49inch Odyssey Neo G9",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Samsung%2049%20Odyssey%20Neo%20G9.jpg?raw=true",
     "category": "Monitor",
     "ratings": 4.7,
     "price": 2199,
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Google Pixel Watch 2",
-    "image": "https://example.com/pixel-watch.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Google%20Pixel%20Watch%202.jpg?raw=true",
     "category": "Wearable",
     "ratings": 4.4,
     "price": 349,
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Anker PowerCore 20000mAh",
-    "image": "https://example.com/anker-powercore.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Anker%20PowerCore%2020000mAh.jpeg?raw=true",
     "category": "Accessories",
     "ratings": 4.6,
     "price": 49,
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "HP Envy x360",
-    "image": "https://example.com/hp-envy.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/HP%20Envy%20x360.jpg?raw=true",
     "category": "Laptop",
     "ratings": 4.3,
     "price": 899,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Amazon Echo Dot (5th Gen)",
-    "image": "https://example.com/echo-dot.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Amazon%20Echo%20Dot%20(5th%20Gen).jpg?raw=true",
     "category": "Smart Home",
     "ratings": 4.5,
     "price": 49,
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "Canon EOS R50 Mirrorless Camera",
-    "image": "https://example.com/canon-eos-r50.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Canon%20EOS%20R50%20Mirrorless%20Camera.jpeg?raw=true",
     "category": "Camera",
     "ratings": 4.6,
     "price": 799,
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "name": "Apple AirPods Pro (2nd Gen)",
-    "image": "https://example.com/airpods-pro.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Apple%20AirPods%20Pro%20(2nd%20Gen).jpeg?raw=true.jpg",
     "category": "Audio",
     "ratings": 4.8,
     "price": 249,
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "name": "MSI MAG B550 TOMAHAWK",
-    "image": "https://example.com/msi-b550.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/MSI%20MAG%20B550%20TOMAHAWK.jpeg?raw=true",
     "category": "PC Components",
     "ratings": 4.7,
     "price": 159,
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Razer Huntsman Mini Keyboard",
-    "image": "https://example.com/razer-huntsman.jpg",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/Razer%20Huntsman%20Mini%20Keyboard.avif",
     "category": "Accessories",
     "ratings": 4.5,
     "price": 129,
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "GoPro HERO12 Black",
-    "image": "https://example.com/gopro-hero12.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/GoPro%20HERO12%20Black.jpg?raw=true",
     "category": "Camera",
     "ratings": 4.6,
     "price": 399,
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "name": "Lenovo Legion 5 Pro",
-    "image": "https://example.com/legion-5pro.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Lenovo%20Legion%205%20Pro.jpg?raw=true",
     "category": "Laptop",
     "ratings": 4.7,
     "price": 1499,
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "name": "TP-Link AX6000 WiFi 6 Router",
-    "image": "https://example.com/tplink-ax6000.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/TP-Link%20AX6000%20WiFi%206%20Router.jpeg?raw=true",
     "category": "Networking",
     "ratings": 4.4,
     "price": 349,
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "name": "Valve Steam Deck OLED 1TB",
-    "image": "https://example.com/steam-deck.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Valve%20Steam%20Deck%20OLED%201TB.jpeg?raw=true",
     "category": "Gaming",
     "ratings": 4.9,
     "price": 649,
