@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Apple MacBook Air M2",
-    "image": "https://example.com/macbook-air.jpg",
+    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/macbook.jpg",
     "category": "Laptop",
     "ratings": 4.8,
     "price": 1199,
