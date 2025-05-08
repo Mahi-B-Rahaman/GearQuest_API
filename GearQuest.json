@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Apple iPad Pro 12.9",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/IpadPro.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Apple%20iPad%20Pro%2012.9.avif",
     "category": "Tablet",
     "ratings": 4.9,
     "price": 1099,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Dell XPS 15",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Dell.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/dell.avif",
     "category": "Laptop",
     "ratings": 4.5,
     "price": 1399,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Logitech MX Master 3S",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Logitech%20MX%20Master%203S.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Logitech%20MX%20Master%203S.avif",
     "category": "Accessories",
     "ratings": 4.8,
     "price": 99,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "ASUS ROG Strix RTX 4080 GPU",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/ASUS%20ROG%20Strix%20RTX%204080%20GPU.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/ASUS%20ROG%20Strix%20RTX%204080%20GPU.avif",
     "category": "PC Components",
     "ratings": 4.9,
     "price": 1499,
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Samsung 49inch Odyssey Neo G9",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Samsung%2049%20Odyssey%20Neo%20G9.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Samsung%2049%20Odyssey%20Neo%20G9.avif",
     "category": "Monitor",
     "ratings": 4.7,
     "price": 2199,
