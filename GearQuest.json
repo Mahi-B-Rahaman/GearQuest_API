@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Google Pixel Watch 2",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Google%20Pixel%20Watch%202.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Google%20Pixel%20Watch%202.avif",
     "category": "Wearable",
     "ratings": 4.4,
     "price": 349,
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Anker PowerCore 20000mAh",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Anker%20PowerCore%2020000mAh.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Anker%20PowerCore%2020000mAh.avif",
     "category": "Accessories",
     "ratings": 4.6,
     "price": 49,
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "HP Envy x360",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/HP%20Envy%20x360.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/HP%20Envy%20x360.avif",
     "category": "Laptop",
     "ratings": 4.3,
     "price": 899,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Amazon Echo Dot (5th Gen)",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Amazon%20Echo%20Dot%20(5th%20Gen).jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Amazon%20Echo%20Dot%20(5th%20Gen).avif",
     "category": "Smart Home",
     "ratings": 4.5,
     "price": 49,
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "Canon EOS R50 Mirrorless Camera",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Canon%20EOS%20R50%20Mirrorless%20Camera.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Canon%20EOS%20R50%20Mirrorless%20Camera.avif",
     "category": "Camera",
     "ratings": 4.6,
     "price": 799,
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "name": "Apple AirPods Pro (2nd Gen)",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Apple%20AirPods%20Pro%20(2nd%20Gen).jpeg?raw=true.jpg",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Apple%20AirPods%20Pro%20(2nd%20Gen).avif",
     "category": "Audio",
     "ratings": 4.8,
     "price": 249,
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "name": "MSI MAG B550 TOMAHAWK",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/MSI%20MAG%20B550%20TOMAHAWK.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/MSI%20MAG%20B550%20TOMAHAWK.avif",
     "category": "PC Components",
     "ratings": 4.7,
     "price": 159,
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Razer Huntsman Mini Keyboard",
-    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/Razer%20Huntsman%20Mini%20Keyboard.avif",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Razer%20Huntsman%20Mini%20Keyboard.avif",
     "category": "Accessories",
     "ratings": 4.5,
     "price": 129,
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "GoPro HERO12 Black",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/GoPro%20HERO12%20Black.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/GoPro%20HERO12%20Black.avif",
     "category": "Camera",
     "ratings": 4.6,
     "price": 399,
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "name": "Lenovo Legion 5 Pro",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Lenovo%20Legion%205%20Pro.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Lenovo%20Legion%205%20Pro.avif",
     "category": "Laptop",
     "ratings": 4.7,
     "price": 1499,
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "name": "TP-Link AX6000 WiFi 6 Router",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/TP-Link%20AX6000%20WiFi%206%20Router.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/TP-Link%20AX6000%20WiFi%206%20Router.avif",
     "category": "Networking",
     "ratings": 4.4,
     "price": 349,
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "name": "Valve Steam Deck OLED 1TB",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/Valve%20Steam%20Deck%20OLED%201TB.jpeg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/Valve%20Steam%20Deck%20OLED%201TB.avif",
     "category": "Gaming",
     "ratings": 4.9,
     "price": 649,
