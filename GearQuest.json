@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Apple MacBook Air M2",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/macbook.avif?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/macbook.avif",
     "category": "Laptop",
     "ratings": 4.8,
     "price": 1199,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Samsung Galaxy S24 Ultra",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/s24ultra.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/s24ultra.avif",
     "category": "Smartphone",
     "ratings": 4.7,
     "price": 1299,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Sony WH-1000XM5 Headphones",
-    "image": "https://github.com/Mahi-B-Rahaman/GearQuest_API/blob/main/headphone.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Mahi-B-Rahaman/GearQuest_API/refs/heads/main/src/headphone.avif",
     "category": "Audio",
     "ratings": 4.6,
     "price": 399,
