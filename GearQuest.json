@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Air M2",
+    "image": "https://example.com/macbook-air.jpg",
+    "category": "Laptop",
+    "ratings": 4.8,
+    "price": 1199,
+    "buyers": 5200
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "image": "https://example.com/galaxy-s24-ultra.jpg",
+    "category": "Smartphone",
+    "ratings": 4.7,
+    "price": 1299,
+    "buyers": 8000
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "image": "https://example.com/sony-wh1000xm5.jpg",
+    "category": "Audio",
+    "ratings": 4.6,
+    "price": 399,
+    "buyers": 6700
+  },
+  {
+    "id": 4,
+    "name": "Apple iPad Pro 12.9",
+    "image": "https://example.com/ipad-pro.jpg",
+    "category": "Tablet",
+    "ratings": 4.9,
+    "price": 1099,
+    "buyers": 4100
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 15",
+    "image": "https://example.com/dell-xps15.jpg",
+    "category": "Laptop",
+    "ratings": 4.5,
+    "price": 1399,
+    "buyers": 3000
+  },
+  {
+    "id": 6,
+    "name": "Logitech MX Master 3S",
+    "image": "https://example.com/mx-master-3s.jpg",
+    "category": "Accessories",
+    "ratings": 4.8,
+    "price": 99,
+    "buyers": 9200
+  },
+  {
+    "id": 7,
+    "name": "ASUS ROG Strix RTX 4080 GPU",
+    "image": "https://example.com/asus-rog-4080.jpg",
+    "category": "PC Components",
+    "ratings": 4.9,
+    "price": 1499,
+    "buyers": 1800
+  },
+  {
+    "id": 8,
+    "name": "Samsung 49\" Odyssey Neo G9",
+    "image": "https://example.com/odyssey-g9.jpg",
+    "category": "Monitor",
+    "ratings": 4.7,
+    "price": 2199,
+    "buyers": 1200
+  },
+  {
+    "id": 9,
+    "name": "Google Pixel Watch 2",
+    "image": "https://example.com/pixel-watch.jpg",
+    "category": "Wearable",
+    "ratings": 4.4,
+    "price": 349,
+    "buyers": 5400
+  },
+  {
+    "id": 10,
+    "name": "Anker PowerCore 20000mAh",
+    "image": "https://example.com/anker-powercore.jpg",
+    "category": "Accessories",
+    "ratings": 4.6,
+    "price": 49,
+    "buyers": 11000
+  },
+  {
+    "id": 11,
+    "name": "HP Envy x360",
+    "image": "https://example.com/hp-envy.jpg",
+    "category": "Laptop",
+    "ratings": 4.3,
+    "price": 899,
+    "buyers": 2600
+  },
+  {
+    "id": 12,
+    "name": "Amazon Echo Dot (5th Gen)",
+    "image": "https://example.com/echo-dot.jpg",
+    "category": "Smart Home",
+    "ratings": 4.5,
+    "price": 49,
+    "buyers": 15000
+  },
+  {
+    "id": 13,
+    "name": "Canon EOS R50 Mirrorless Camera",
+    "image": "https://example.com/canon-eos-r50.jpg",
+    "category": "Camera",
+    "ratings": 4.6,
+    "price": 799,
+    "buyers": 1300
+  },
+  {
+    "id": 14,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "image": "https://example.com/airpods-pro.jpg",
+    "category": "Audio",
+    "ratings": 4.8,
+    "price": 249,
+    "buyers": 9700
+  },
+  {
+    "id": 15,
+    "name": "MSI MAG B550 TOMAHAWK",
+    "image": "https://example.com/msi-b550.jpg",
+    "category": "PC Components",
+    "ratings": 4.7,
+    "price": 159,
+    "buyers": 3400
+  },
+  {
+    "id": 16,
+    "name": "Razer Huntsman Mini Keyboard",
+    "image": "https://example.com/razer-huntsman.jpg",
+    "category": "Accessories",
+    "ratings": 4.5,
+    "price": 129,
+    "buyers": 4100
+  },
+  {
+    "id": 17,
+    "name": "GoPro HERO12 Black",
+    "image": "https://example.com/gopro-hero12.jpg",
+    "category": "Camera",
+    "ratings": 4.6,
+    "price": 399,
+    "buyers": 2900
+  },
+  {
+    "id": 18,
+    "name": "Lenovo Legion 5 Pro",
+    "image": "https://example.com/legion-5pro.jpg",
+    "category": "Laptop",
+    "ratings": 4.7,
+    "price": 1499,
+    "buyers": 2200
+  },
+  {
+    "id": 19,
+    "name": "TP-Link AX6000 WiFi 6 Router",
+    "image": "https://example.com/tplink-ax6000.jpg",
+    "category": "Networking",
+    "ratings": 4.4,
+    "price": 349,
+    "buyers": 3700
+  },
+  {
+    "id": 20,
+    "name": "Valve Steam Deck OLED 1TB",
+    "image": "https://example.com/steam-deck.jpg",
+    "category": "Gaming",
+    "ratings": 4.9,
+    "price": 649,
+    "buyers": 4600
+  }
+]
